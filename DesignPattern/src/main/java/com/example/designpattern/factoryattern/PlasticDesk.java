@@ -5,6 +5,6 @@ public class PlasticDesk implements Desk{
     public String getType() {
         System.out.println("dsadasd");
         System.out.println("dsadasd");
-        return "塑料桌1";
+        return "塑料桌";
     }
 }

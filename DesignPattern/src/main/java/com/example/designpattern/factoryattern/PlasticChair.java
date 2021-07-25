@@ -5,6 +5,7 @@ public class PlasticChair implements Chair{
     public String getType() {
         System.out.println("dsaasda");
         System.out.println("dsaasda");
-        return "12塑料椅1";
+        System.out.println("dsaasda1");
+        return "塑料椅";
     }
 }
