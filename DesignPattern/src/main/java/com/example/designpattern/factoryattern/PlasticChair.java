@@ -8,6 +8,8 @@ public class PlasticChair implements Chair{
         System.out.println("dsaasda1");
         System.out.println("dsaasda122");
         System.out.println("dsaasda122");
+        System.out.println("dsaasda12");
+        System.out.println("dsaasda12");
         return "塑料椅";
     }
 }
