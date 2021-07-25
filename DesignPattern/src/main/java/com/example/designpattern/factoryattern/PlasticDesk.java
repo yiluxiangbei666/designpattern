@@ -4,6 +4,7 @@ public class PlasticDesk implements Desk{
     @Override
     public String getType() {
         System.out.println("dsadasd");
-        return "塑料桌1";
+        System.out.println("dsadasd");
+        return "塑料桌";
     }
 }
